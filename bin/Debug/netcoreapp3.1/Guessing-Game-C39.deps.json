@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Guessing-Game-C39/1.0.0": {
+        "runtime": {
+          "Guessing-Game-C39.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guessing-Game-C39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
